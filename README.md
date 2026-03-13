@@ -2,7 +2,7 @@
   <img src="https://capsules-render.vercel.app/api?type=waving&color=120a1c&height=200&section=header&text=Hi,%20I'm%20Habiba%20Mahfouz&fontSize=40&fontColor=b68ecf" />
 </div>
 
-<h3 align="center">CS Student @ Alexandria University | CCNA Certified & Network Enthusiast | UI/UX Designer | Java & C++ Developer</h3>
+<h3 align="center"> CS Student @ Alexandria University (SIM) | CCNA Certified & Network Enthusiast | UI/UX Designer | Java & C++ Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/habiba-mahfouz-4ba87334a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
