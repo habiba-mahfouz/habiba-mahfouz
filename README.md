@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsules-render.vercel.app/api?type=waving&color=120a1c&height=200&section=header&text=Hi,%20I'm%20Habiba%20Mahfouz&fontSize=40&fontColor=b68ecf" />
+  <img src="https://capsules-render.vercel.app/api?type=waving&color=fdf6e2&height=200&section=header&text=Hi,%20I'm%20Habiba%20Mahfouz&fontSize=40&fontColor=8c7355" />
 </div>
 
-<h3 align="center">CS Student @ Alexandria University (SIM) | CCNA Certified & Network Enthusiast | UI/UX Designer | Java & C++ Developer</h3>
+<h3 align="center">CS Student @ Alexandria University | CCNA Certified & Network Enthusiast | UI/UX Designer | Java & C++ Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/habiba-mahfouz-4ba87334a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -46,12 +46,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=habiba-mahfouz&show_icons=true&theme=radical&bg_color=120a1c&text_color=eae1f0&icon_color=b68ecf&title_color=b68ecf&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=habiba-mahfouz&theme=radical&background=120a1c&ring=b68ecf&fire=b68ecf&currStreakLabel=b68ecf&sideLabels=eae1f0&sideNums=eae1f0&currStreakNum=eae1f0&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=habiba-mahfouz&show_icons=true&bg_color=fdf6e2&text_color=6b5840&icon_color=8fb9d9&title_color=da971c&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=habiba-mahfouz&background=fdf6e2&ring=edb424&fire=edb424&currStreakLabel=6b5840&sideLabels=6b5840&sideNums=6b5840&currStreakNum=6b5840&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiba-mahfouz&layout=compact&theme=radical&bg_color=120a1c&text_color=eae1f0&title_color=b68ecf&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiba-mahfouz&layout=compact&bg_color=fdf6e2&text_color=6b5840&title_color=da971c&hide_border=true" />
 </p>
 
 ---
@@ -63,4 +63,3 @@
 | **[Library Management System](https://github.com/habiba-mahfouz/Library-Management-System-Cpp)** | Console-based Library Management System to handle CRUD operations. | C++ |
 | **[Expression Calculator](https://github.com/habiba-mahfouz/Expression-Calculator-Java)** | Mathematical expression evaluator using Stack and Linked List data structures. | Java |
 | **[Snake Game](https://github.com/habiba-mahfouz/Snake-Game-Python)** | Interactive Snake game for real-time input handling, collision detection, and scoring system management. | Python |
-
