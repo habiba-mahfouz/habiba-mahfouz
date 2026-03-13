@@ -2,7 +2,7 @@
   <img src="https://capsules-render.vercel.app/api?type=waving&color=120a1c&height=200&section=header&text=Hi,%20I'm%20Habiba%20Mahfouz&fontSize=40&fontColor=b68ecf" />
 </div>
 
-<h3 align="center"> CS Student @ Alexandria University (SIM) | CCNA Certified & Network Enthusiast | UI/UX Designer | Java & C++ Developer</h3>
+<h3 align="center">CS Student @ Alexandria University (SIM) | CCNA Certified & Network Enthusiast | UI/UX Designer | Java & C++ Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/habiba-mahfouz-4ba87334a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -35,7 +35,11 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/FigJam-A259FF?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
 ---
@@ -59,3 +63,4 @@
 | **[Library Management System](https://github.com/habiba-mahfouz/Library-Management-System-Cpp)** | Console-based Library Management System to handle CRUD operations. | C++ |
 | **[Expression Calculator](https://github.com/habiba-mahfouz/Expression-Calculator-Java)** | Mathematical expression evaluator using Stack and Linked List data structures. | Java |
 | **[Snake Game](https://github.com/habiba-mahfouz/Snake-Game-Python)** | Interactive Snake game for real-time input handling, collision detection, and scoring system management. | Python |
+
