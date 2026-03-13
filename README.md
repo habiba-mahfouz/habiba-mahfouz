@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsules-render.vercel.app/api?type=waving&color=fdf6e2&height=200&section=header&text=Hi,%20I'm%20Habiba%20Mahfouz&fontSize=40&fontColor=8c7355" />
+   <h1 align="center">Hi, I'm Habiba Mahfouz! 👋</h1>
 </div>
 
 <h3 align="center">CS Student @ Alexandria University | Java & C++ Developer | UI/UX Designer | CCNA & Network Enthusiast</h3>
