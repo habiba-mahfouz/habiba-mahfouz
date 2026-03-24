@@ -18,6 +18,7 @@
 - 🔭 Currently expanding my skills in: Windows Server administration (MCSA) and learning Penetration Testing.
 - 🌱 Deeply interested in: System Security, Networking, and Object-Oriented Programming (Java, C++, Python).
 - 🎨 Passionate about: UI/UX Design (UX research, Personas, IA, Wireframes, and Prototyping).
+- 🛠️ Creative Tools & Projects: Hands-on experience building projects with Unity, editing audio with Audacity, and designing with Adobe Illustrator. 
 - 👯 Looking to collaborate on: Open Source Software, Networking projects, or UI/UX initiatives.
 - 💬 Ask me about: Java, C++, Python, Cisco Packet Tracer, or Design Aesthetics.
 - 😊 Community: I'd love to make genuine friendships here — let's follow each other and grow together!
