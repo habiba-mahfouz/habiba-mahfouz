@@ -5,18 +5,22 @@
 <h3 align="center">CS Student @ Alexandria University | Java & C++ Developer | UI/UX Designer | CCNA & Network Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/habiba-mahfouz-4ba87334a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/habiba-mahfouz-4ba87334a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge" /></a>
   <a href="mailto:habibamohammedmahfouz@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="https://drive.google.com/file/d/1iSanVhtQqvs36aWP9ymDlvarEWfLqAoM/view?usp=drive_link"><img src="https://img.shields.io/badge/-RESUME-D8D8D8?style=for-the-badge" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 - 🔭 I’m currently expanding my skills in **Windows Server administration (MCSA)** and learning **Penetration Testing**.
-- 🌱 I’m deeply interested in **System Security, Networking (CCNA), and Object-Oriented Programming (OOP)**.
+- 🌱 I’m deeply interested in **System Security, Networking, and Object-Oriented Programming (OOP)**.
 - 🎨 I also have a strong passion for **UI/UX Design**, creating user-centric digital experiences.
 - 👯 I’m looking to collaborate on **Open Source Software, Networking projects, or UI/UX initiatives**.
 - 💬 Ask me about: **Java, C++, Python, Cisco Packet Tracer, or Design Aesthetics.**
+- 😊 I'd love to make genuine friendships here — let's **follow each other** and grow together in this amazing community!
+- 🤝 I'm passionate and ready to collaborate on projects related to my expertise — let's build something great!
+- 🌟 I'm always eager to **learn new skills** and contribute to diverse projects, no matter the field — every collaboration is a new adventure!
 
 ---
 
@@ -28,6 +32,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 <p align="left">
   <!-- Tools & Networking -->
@@ -54,12 +59,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiba-mahfouz&layout=compact&bg_color=fdf6e2&text_color=6b5840&title_color=da971c&hide_border=true" />
 </p>
 
----
 
-### 🏆 Top Projects
-| Project | Description | Technology |
-|---|---|---|
-| **[Enterprise Network Security](https://github.com/habiba-mahfouz/-Enterprise-Network-Security)** | Secure enterprise network configuration implementing VLANs, OSPF, SSH, Port Security, DHCP Snooping, and IPsec VPN. | Cisco Packet Tracer |
-| **[Library Management System](https://github.com/habiba-mahfouz/Library-Management-System-Cpp)** | Console-based Library Management System to handle CRUD operations. | C++ |
-| **[Expression Calculator](https://github.com/habiba-mahfouz/Expression-Calculator-Java)** | Mathematical expression evaluator using Stack and Linked List data structures. | Java |
-| **[Snake Game](https://github.com/habiba-mahfouz/Snake-Game-Python)** | Interactive Snake game for real-time input handling, collision detection, and scoring system management. | Python |
