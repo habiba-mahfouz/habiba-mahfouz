@@ -21,6 +21,7 @@
 - 😊 I'd love to make genuine friendships here — let's **follow each other** and grow together in this amazing community!
 - 🤝 I'm passionate and ready to collaborate on projects related to my expertise — let's build something great!
 - 🌟 I'm always eager to **learn new skills** and contribute to diverse projects, no matter the field — every collaboration is a new adventure!
+- 🚀 Feel free to explore my projects and see what I’ve been working on!
 
 ---
 
