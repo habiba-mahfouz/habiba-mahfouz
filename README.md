@@ -1,5 +1,5 @@
 <div align="center">
-   <h1 align="center">Hi, I'm Habiba Mahfouz! 👋</h1>
+   <h1 align="center">Welcome to my GitHub, I'm Habiba Mahfouz! 👋</h1>
 </div>
 
 <h3 align="center">CS Student @ Alexandria University | Java & C++ Developer | UI/UX Designer | CCNA & Network Enthusiast</h3>
@@ -13,15 +13,15 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently expanding my skills in **Windows Server administration (MCSA)** and learning **Penetration Testing**.
-- 🌱 I’m deeply interested in **System Security, Networking, and Object-Oriented Programming (OOP)**.
-- 🎨 I also have a strong passion for **UI/UX Design**, creating user-centric digital experiences.
-- 👯 I’m looking to collaborate on **Open Source Software, Networking projects, or UI/UX initiatives**.
-- 💬 Ask me about: **Java, C++, Python, Cisco Packet Tracer, or Design Aesthetics.**
-- 😊 I'd love to make genuine friendships here — let's **follow each other** and grow together in this amazing community!
-- 🤝 I'm passionate and ready to collaborate on projects related to my expertise — let's build something great!
-- 🌟 I'm always eager to **learn new skills** and contribute to diverse projects, no matter the field — every collaboration is a new adventure!
-- 🚀 Feel free to explore my projects and see what I’ve been working on!
+👋 I'm a 2nd-year Software Industry & Multimedia (SIM) student blending logic with creativity.
+- 🌟I love bridging the gap between solid backend architecture and beautiful frontend design. 
+- 🔭 Currently expanding my skills in: Windows Server administration (MCSA) and learning Penetration Testing.
+- 🌱 Deeply interested in: System Security, Networking, and Object-Oriented Programming (Java, C++, Python).
+- 🎨 Passionate about: UI/UX Design (UX research, Personas, IA, Wireframes, and Prototyping).
+- 👯 Looking to collaborate on: Open Source Software, Networking projects, or UI/UX initiatives.
+- 💬 Ask me about: Java, C++, Python, Cisco Packet Tracer, or Design Aesthetics.
+- 😊 Community: I'd love to make genuine friendships here — let's follow each other and grow together!
+- 🤝 Let's Connect: I'm passionate, ready to collaborate, and always eager to learn new skills. Feel free to explore my projects below!
 
 ---
 
