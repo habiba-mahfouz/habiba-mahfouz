@@ -7,6 +7,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/habiba-mahfouz-4ba87334a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge" /></a>
   <a href="mailto:habibamohammedmahfouz@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="https://codeforces.com/profile/Vetraelle">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
  <a href="https://drive.google.com/file/d/1iSanVhtQqvs36aWP9ymDlvarEWfLqAoM/view?usp=drive_link"><img src="https://img.shields.io/badge/-RESUME-D8D8D8?style=for-the-badge" /></a>
 </p>
 
@@ -50,15 +53,9 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=habiba-mahfouz&show_icons=true&bg_color=fdf6e2&text_color=6b5840&icon_color=8fb9d9&title_color=da971c&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=habiba-mahfouz&background=fdf6e2&ring=edb424&fire=edb424&currStreakLabel=6b5840&sideLabels=6b5840&sideNums=6b5840&currStreakNum=6b5840&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiba-mahfouz&layout=compact&bg_color=fdf6e2&text_color=6b5840&title_color=da971c&hide_border=true" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habiba-mahfouz&show_icons=true&bg_color=f9f5f0&text_color=3c3147&icon_color=5ba4cf&title_color=e8725c&hide_border=true)](https://github.com/habiba-mahfouz)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=habiba-mahfouz&background=f9f5f0&ring=f0a6b7&fire=f2c94c&currStreakLabel=6b5c7a&sideLabels=6b5c7a&sideNums=3c3147&currStreakNum=3c3147&hide_border=true)](https://github.com/habiba-mahfouz)
 
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habiba-mahfouz&layout=compact&bg_color=f9f5f0&text_color=3c3147&title_color=e8725c&hide_border=true)](https://github.com/habiba-mahfouz)
