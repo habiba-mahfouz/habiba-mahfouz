@@ -16,14 +16,22 @@
 
 ---
 
-### 🚀 About Me
-I am a results-driven **Software Industry & Multimedia (SIM)** student at Alexandria University, specializing in bridging the gap between technical engineering and creative design. 
+---
 
-- 🌐 **Portfolio**: Explore my interactive work at **[habiba-mahfouz.github.io](https://habiba-mahfouz.github.io)**
+### 🚀 About Me
+👋 I am a results-driven **Software Industry & Multimedia (SIM)** student at Alexandria University, specializing in bridging the gap between technical engineering and creative design. 
+
+- 🌟 I love bridging the gap between solid backend architecture and beautiful frontend design.
 - 🔭 **Current Focus**: Advancing in **Windows Server administration** and exploring **Ethical Hacking**.
 - 🛠️ **Expertise**: Solid foundations in **Secure Network Architecture (CCNA trained)** and **OOP (Java, C++, Python)**.
 - 🎨 **Passion**: **UI/UX Design**, creating user-centric solutions through data-driven research.
-- 😊 **Goal**: Building innovative, secure, and impactful digital experiences.
+- 👯 **Collaborate**: Looking to collaborate on: Open Source Software, Networking projects, or UI/UX initiatives.
+- 💬 **Ask me about**: Java, C++, Python, Cisco Packet Tracer, or Design Aesthetics.
+- 😊 **Community**: I'd love to make genuine friendships here — let's follow each other and grow together!
+- 🤝 **Let's Connect**: I'm passionate, ready to collaborate, and always eager to learn new skills. Feel free to explore my projects below!
+
+---
+
 
 ---
 
@@ -37,7 +45,7 @@ I am a results-driven **Software Industry & Multimedia (SIM)** student at Alexan
 *   **[Interactive Snake Logic](https://github.com/habiba-mahfouz/Snake-Game-Python.git)**: Python game engineering featuring real-time input and collision algorithms.
 
 #### 🤝 Collaborative Team Projects
-*   **[Scalable Flight Reservation System](https://github.com/habiba-mahfouz/Flight-booking-System-Java.git)**: Team-architected Java booking engine with optimized scheduling (Swing/CLI).
+*   **[Scalable Flight Reservation System](https://github.com/habiba-mahfouz/Flight-booking-System-Java.git)**: Team-architected Java booking engine with optimized scheduling (Swing).
 *   **[Academic Administration System](https://github.com/habiba-mahfouz/college-system-java.git)**: Enterprise-level college management solution using purely Object-Oriented framework.
 *   **[Book Bloom – E-commerce Solution](https://github.com/habiba-mahfouz/Book-Bloom-WebApp.git)**: Modular online bookstore featuring auth, cart, and admin dashboards.
 *   **[Immersive 3D Environments](https://lnkd.in/d9CDNEGd)**: High-fidelity interactive physics-based games developed in **Unity**.
