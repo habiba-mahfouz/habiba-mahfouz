@@ -75,9 +75,9 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habiba-mahfouz&show_icons=true&bg_color=f9f5f0&text_color=3c3147&icon_color=5ba4cf&title_color=e8725c&hide_border=true)](https://github.com/habiba-mahfouz)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=habiba-mahfouz&show_icons=true&bg_color=f9f5f0&text_color=3c3147&icon_color=5ba4cf&title_color=e8725c&hide_border=true)](https://github.com/habiba-mahfouz)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=habiba-mahfouz&background=f9f5f0&ring=f0a6b7&fire=f2c94c&currStreakLabel=6b5c7a&sideLabels=6b5c7a&sideNums=3c3147&currStreakNum=3c3147&hide_border=true)](https://github.com/habiba-mahfouz)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habiba-mahfouz&layout=compact&bg_color=f9f5f0&text_color=3c3147&title_color=e8725c&hide_border=true)](https://github.com/habiba-mahfouz)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=habiba-mahfouz&layout=compact&bg_color=f9f5f0&text_color=3c3147&title_color=e8725c&hide_border=true)](https://github.com/habiba-mahfouz)
 
 <p align="center">
   <b>Let's connect and build something extraordinary! 🤝</b>
