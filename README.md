@@ -2,7 +2,7 @@
    <h1 align="center">Welcome to my GitHub, I'm Habiba Mahfouz! 👋</h1>
 </div>
 
-<h3 align="center">CS Student @ Alexandria University | Network Enthusiast | Java & C++ Developer | UI/UX Designer</h3>
+<h3 align="center">CS Student @ Alexandria University | Software development | Network Enthusiast | Java, Python, & C++ Developer | UI/UX Designer</h3>
 
 <p align="center">
   <a href="https://habiba-mahfouz.github.io"><img src="https://img.shields.io/badge/-PORTFOLIO-E8725C?style=for-the-badge&logo=react&logoColor=white" /></a>
@@ -49,6 +49,7 @@
 *   **[Book Bloom – E-commerce Solution](https://github.com/habiba-mahfouz/Book-Bloom-WebApp.git)**: Modular online bookstore featuring auth, cart, and admin dashboards.
 *   **[Immersive 3D Environments](https://lnkd.in/d9CDNEGd)**: High-fidelity interactive physics-based games developed in **Unity**.
 *   **[Humanitarian Multimedia Campaign](https://github.com/habiba-mahfouz/Palestine-Multimedia.git)**: Multi-platform awareness initiative featuring professional sound design and visual branding.
+*   **[CineStream – Movie Platform](https://github.com/habiba-mahfouz/cinestream-movie-platform/tree/main)**: Full-stack dynamic movie application featuring custom user authentication and relational database integration (HTML, CSS, JS, PHP, MySQL).
 
 ---
 
@@ -60,6 +61,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 <p align="left">
@@ -70,6 +73,7 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
+
 
 ---
 
