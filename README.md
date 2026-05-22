@@ -36,6 +36,7 @@
 ### 📂 Featured Projects
 
 #### 👤 Individual Projects (Core Strengths)
+*   **[Network Fundamentals Project](https://github.com/habiba-mahfouz/Network-Fundamentals-Project.git)**: Multi-branch enterprise network designed with Cisco Packet Tracer covering IP classes, subnetting, static & dynamic routing (RIP), static & dynamic NAT, and switching. 
 *   **[Enterprise Network Architecture](https://github.com/habiba-mahfouz/Enterprise-Network-Security.git)**: Secure enterprise network design with VLANs, OSPF, and IPsec VPN tunneling.
 *   **[Booki Store – Product Design](https://github.com/habiba-mahfouz/Booki-UX-Case-Study)**: End-to-end UI/UX Case Study for a social reading ecosystem (Figma).
 *   **[Library Management System](https://github.com/habiba-mahfouz/Library-Management-System-Cpp.git)**: Robust C++ system utilizing OOP for inventory tracking and automation.
