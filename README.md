@@ -2,7 +2,7 @@
    <h1 align="center">Welcome to my GitHub, I'm Habiba Mahfouz! 👋</h1>
 </div>
 
-<h3 align="center">CS Student @ Alexandria University | Software development | Network Enthusiast | Java, Python, & C++ Developer | UI/UX Designer</h3>
+<h3 align="center">React frontend web developer at @DEPI | CS Student @Alexandria University | CCNA Certified | Junior UI/UX</h3>
 
 <p align="center">
   <a href="https://habiba-mahfouz.github.io"><img src="https://img.shields.io/badge/-PORTFOLIO-E8725C?style=for-the-badge&logo=react&logoColor=white" /></a>
